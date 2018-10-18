@@ -1,0 +1,306 @@
+{
+  "categoria": [
+    {
+      "id": 1,
+      "titulo": "Terror",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "It: A Coisa",
+          "url": "https://www.youtube.com/embed/tqMSJNl-bs0?rel=0&autoplay=1",
+          "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg"
+        },
+        {
+          "id": 2,
+          "titulo": "A bruxa",
+          "url": "https://www.youtube.com/embed/nQFMIh3Ade4?rel=0&autoplay=1",
+          "imagem": "https://www.mixfmpoa.com.br/wp-content/uploads/2018/07/A-Bruxa-capa.jpg"
+        },
+        {
+          "id": 3,
+          "titulo": "A freira",
+          "url": "https://www.youtube.com/embed/lqiQKemWZhU?rel=0&autoplay=1",
+          "imagem": "https://s3.portalt5.com.br/imagens/A-Freira-ja-e-maior-filme-de-terror-de-todos-os-tempos.jpg?mtime=20180910204937"
+        },
+        {
+          "id": 4,
+          "titulo": "Invocação do mal",
+          "url": "https://www.youtube.com/embed/KWefO4yTHB0?rel=0&autoplay=1",
+          "imagem": "https://static.vix.com/pt/sites/default/files/styles/large/public/i/invocacao-do-mal-historia-1116-1400x800.jpg?itok=KfqySqo0"
+        },
+        {
+          "id": 5,
+          "titulo": "Annabelle",
+          "url": "https://www.youtube.com/embed/kHl6aU30pIo?rel=0&autoplay=1",
+          "imagem": "https://www.mezcotoyz.com/mas_assets/cache/image/1/2/f/6/4854.Jpg"
+        },
+        {
+          "id": 6,
+          "titulo": "O babadook",
+          "url": "https://www.youtube.com/embed/VSIxlPt24cU?rel=0&autoplay=1",
+          "imagem": "http://2.bp.blogspot.com/-orUM0MF2C2I/VHIALgk8W7I/AAAAAAAARyw/L146oYIuIRI/s1600/baba1.jpg"
+        },
+        {
+          "id": 7,
+          "titulo": "A entidade",
+          "url": "https://youtu.be/-Q_dwLGd2Rs?rel=0&autoplay=1",
+          "imagem": "https://maniacosporfilme.files.wordpress.com/2013/04/a-entidade.jpg"
+        },
+        {
+          "id": 8,
+          "titulo": "Jogos mortais",
+          "url": "https://www.youtube.com/embed/ogkm9co9IM4?rel=0&autoplay=1",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/01/maxresdefault-4-750x380.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Comédia",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Deadpool",
+          "url": "https://www.youtube.com/embed/Xithigfg7dA?rel=0&autoplay=1",
+          "imagem": "https://i.uai.com.br/MU5I8ows18z8psaieJ8rvQ-IUIE=/imgsapp2.uai.com.br/app/noticia_133890394703/2018/05/18/227468/20180518134704527110u.jpg"
+        },
+        {
+          "id": 2,
+          "titulo": "Se beber não case",
+          "url": "https://www.youtube.com/embed/Cm7eAq1PaXE?rel=0&autoplay=1",
+          "imagem": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=3695429&qld=90&l=430&a=-1=1000431248"
+        },
+        {
+          "id": 3,
+          "titulo": "Inocáveis",
+          "url": "https://www.youtube.com/embed/-Fb8h4gChlU?rel=0&autoplay=1",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Intouchables_cartaz.jpg/225px-Intouchables_cartaz.jpg"
+        },
+        {
+          "id": 4,
+          "titulo": "As branquelas",
+          "url": "https://www.youtube.com/embed/gEC8h3IMgXg?rel=0&autoplay=1",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/White_chicks.jpeg/200px-White_chicks.jpeg"
+        },
+        {
+          "id": 5,
+          "titulo": "Auto da compadecida",
+          "url": "https://www.youtube.com/embed/XPuMu_ENzlg?rel=0&autoplay=1",
+          "imagem": "https://bibliotecaucs.files.wordpress.com/2017/07/o_auto_da_compadecida-ariano-suassuna.jpg"
+        },
+        {
+          "id": 6,
+          "titulo": "American Pie",
+          "url": "https://www.youtube.com/embed/Sithad108Og?rel=0&autoplay=1",
+          "imagem": "https://images-na.ssl-images-amazon.com/images/I/61aTGQUlYoL._SX342_.jpg"
+        },
+        {
+          "id": 7,
+          "titulo": "Vovózona",
+          "url": "https://www.youtube.com/embed/lkUZCzxQoEY?rel=0&autoplay=1",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/14/05/06/21/20/243550.jpg"
+        },
+        {
+          "id": 8,
+          "titulo": "Todo Poderoso",
+          "url": "https://www.youtube.com/embed/w8gZKzfWrMU?rel=0&autoplay=1",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/60/BruceAlmighty_poster.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Ação",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Venom",
+          "url": "https://www.youtube.com/embed/-C1JZ0adMs8?rel=0&autoplay=1",
+          "imagem": "http://auranerd.com.br/wp-content/uploads/2018/10/venom_7-750x380.jpg"
+        },
+        {
+          "id": 2,
+          "titulo": "Vingadores 4",
+          "url": "https://www.youtube.com/embed/WfuEG_JKSLA?rel=0&autoplay=1",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/09/vingadores4arte.jpg"
+        },
+        {
+          "id": 3,
+          "titulo": "Pantera Negra",
+          "url": "https://www.youtube.com/embed/CSHPaQ5CZkQ?rel=0&autoplay=1",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/17/12/07/16/09/2291532.jpg"
+        },
+        {
+          "id": 4,
+          "titulo": "Missão impossivel 6",
+          "url": "https://www.youtube.com/embed/yQpGdhIaNMY?rel=0&autoplay=1",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhwPFwohD9xs9ZQgEVkQ3JTrtp5Fw5EqO8AJ3PZermoU_XDiU"
+        },
+        {
+          "id": 5,
+          "titulo": "Logan",
+          "url": "https://www.youtube.com/embed/KPND6SgkN7Q?rel=0&autoplay=1",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg"
+        },
+        {
+          "id": 6,
+          "titulo": "O predador",
+          "url": "https://www.youtube.com/embed/rcLNfp2wx4s?rel=0&autoplay=1",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/09/the-predator-ending.jpg"
+        },
+        {
+          "id": 7,
+          "titulo": "Arranha céu",
+          "url": "https://www.youtube.com/embed/r8KlxpjXZeI?rel=0&autoplay=1",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/18/06/18/17/54/3474993.jpg"
+        },
+        {
+          "id": 8,
+          "titulo": "Mad Max",
+          "url": "https://www.youtube.com/embed/hEJnMQG9ev8?rel=0&autoplay=1",
+          "imagem": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7312/7312066_sa.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Romance",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "A Última Música",
+          "url": "https://www.youtube.com/embed/tlQpJAcNzJg?rel=0&autoplay=1",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f5/The-Last-Song-Poster.JPG/220px-The-Last-Song-Poster.JPG"
+        },
+        {
+          "id": 2,
+          "titulo": "Como Eu Era Antes De Você ",
+          "url": "https://www.youtube.com/embed/CbJGH4ahPSU?rel=0&autoplay=1",
+          "imagem": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGX0JPMXX/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=300&w=200&format=jpg"
+        },
+        {
+          "id": 3,
+          "titulo": "A Culpa é das Estrelas",
+          "url": "https://www.youtube.com/embed/lFOOZJ1UChg?rel=0&autoplay=1",
+          "imagem": "https://images-americanas.b2w.io/produtos/01/00/item/119388/2/119388217_1GG.jpg"
+        },
+        {
+          "id": 4,
+          "titulo": "O melhor de mim",
+          "url": "https://www.youtube.com/embed/_K_qbjm97tY?rel=0&autoplay=1",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/14/10/01/15/38/084964.jpg"
+        },
+        {
+          "id": 5,
+          "titulo": "Um dia",
+          "url": "https://www.youtube.com/embed/3C1dSEK27L0?rel=0&autoplay=1",
+          "imagem": "https://lh3.googleusercontent.com/vslmpkYkizLwZb6TTZVQNdfdGBeMCVRYVuvBzGsI7xtPWa21eEUWbB70hX-I_E0RydJX"
+        },
+        {
+          "id": 6,
+          "titulo": "Para Garotos que Já Amei",
+          "url": "https://www.youtube.com/embed/CH8Macp0fk4?rel=0&autoplay=1",
+          "imagem": "https://i2.wp.com/leitoracompulsiva.com.br/wp-content/uploads/Para-Todos-os-Garotos-Que-J%C3%A1-Amei-blog-leitora-compulsiva.jpg?resize=613%2C400"
+        },
+        {
+          "id": 7,
+          "titulo": "Querido John",
+          "url": "https://www.youtube.com/embed/_99xWg_Fesw?rel=0&autoplay=1",
+          "imagem": "https://is4-ssl.mzstatic.com/image/thumb/Video/41/30/e6/mzi.yqesxzko.jpg/268x0w.jpg"
+        },
+        {
+          "id": 8,
+          "titulo": "Um Amor para Recordar",
+          "url": "https://www.youtube.com/embed/hRwqzUAlJVA?rel=0&autoplay=1",
+          "imagem": "http://photo.goodreads.com/books/1266399303l/7744637.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Família",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Moama",
+          "url": "https://www.youtube.com/embed/taDzC3g_8JU?t=7?rel=0&autoplay=1",
+          "imagem": "https://www.portaldoholanda.com.br/sites/default/files/portaldoholanda-719925-imagem-foto-amazonas.jpg"
+        },
+        {
+          "id": 2,
+          "titulo": "Divertidamente",
+          "url": "https://www.youtube.com/embed/ukQeR3zYncw?rel=0&autoplay=1",
+          "imagem": "https://i.ytimg.com/vi/SG20CoUb5wA/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "titulo": "Frozen",
+          "url": "https://www.youtube.com/embed/TbQm5doF_Uc?rel=0&autoplay=1",
+          "imagem": "https://soumamae.com.br/wp-content/uploads/2018/01/Frozen-a-for%C3%A7a-do-amor-entre-irm%C3%A3s.jpg"
+        },
+        {
+          "id": 4,
+          "titulo": "Os incríveis 2",
+          "url": "https://www.youtube.com/embed/8NURuV5GmPY?rel=0&autoplay=1",
+          "imagem": "http://br.web.img2.acsta.net/newsv7/18/04/20/14/24/4060466.jpg"
+        },
+        {
+          "id": 5,
+          "titulo": "Minions",
+          "url": "https://www.youtube.com/embed/65yL42CwR8Q?rel=0&autoplay=1",
+          "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/a4/aa/0c/a4aa0ca2-d871-2831-1eda-88f649e25ce0/contsched.njxououk.lsr/268x0w.jpg"
+        },
+        {
+          "id": 6,
+          "titulo": "O touro Ferdinando",
+          "url": "https://www.youtube.com/embed/o5SIUuIVuZU?rel=0&autoplay=1",
+          "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/20551-cartaz.jpg"
+        },
+        {
+          "id": 7,
+          "titulo": "Zootopia",
+          "url": "https://www.youtube.com/embed/prct6AB5tR8?rel=0&autoplay=1",
+          "imagem": "https://lumiere-a.akamaihd.net/v1/images/rich_zootopia_header_3d918aae.jpeg?region=0,0,2048,1200&quality=8"
+        },
+        {
+          "id": 8,
+          "titulo": "Os incríveis",
+          "url": "https://www.youtube.com/embed/uz5nMVBGDjk?rel=0&autoplay=1",
+          "imagem": "http://www.heroisdateve.com.br/wp-content/uploads/2018/07/DhDfza7VQAAIPup-1.jpg"
+        }
+      ]
+    }
+  ],
+  "usuario": [
+    {
+      "nome": "asaf",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "nome": "asaf",
+      "senha": "321",
+      "id": 2
+    },
+    {
+      "nome": "asaf",
+      "senha": "321",
+      "id": 3
+    },
+    {
+      "nome": "Leo",
+      "senha": "123",
+      "id": 4
+    },
+    {
+      "nome": "L",
+      "senha": "123",
+      "id": 5
+    },
+    {
+      "nome": "L",
+      "senha": "123",
+      "id": 6
+    }
+  ]
+}
